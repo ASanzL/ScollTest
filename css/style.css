@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #ffeecf;
+}
+
+.block {
+  height: 250px;
+  background-color: gray;
+  margin: 20px;
+}
+
+.show {
+  background-color: blue;
+  transition: background-color 2s;
+}
+
+/*# sourceMappingURL=style.css.map */
